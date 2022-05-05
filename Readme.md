@@ -1,7 +1,7 @@
-👋 Hi, My name is Reza Javadpour
+👋 Hi, I'm Reza Javadpour
 ===============================
 
-Front-end Developer
+Front-end Web Developer
 -------------------
 
 I am a web developer with deep knowledge in front-end development. I have 5 years of professional experience in developing mid to large-scale websites and web applications based on web standard technologies. Also, I have worked with all three front-end tools such as React.js, Vue.js, and Angular. As well as, I enjoy painting with CSS and learning Python in my spare time.
