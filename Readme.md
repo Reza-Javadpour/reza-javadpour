@@ -49,6 +49,6 @@ I am a web developer with deep knowledge in front-end development. I have 5 year
 
 ### Badges
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-Javadpour&count_private=true&title_color=37DF31&text_color=45b5ff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=hack,scss,sass,css,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-Javadpour&count_private=true&title_color=37DF31&text_color=ddd&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=hack,css&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="http://www.github.com/Reza-Javadpour"><img src="https://activity-graph.herokuapp.com/graph?username=Reza-Javadpour&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
