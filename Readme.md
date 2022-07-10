@@ -4,7 +4,7 @@
 Software Web Developer
 -------------------
 
-I am a web developer with deep knowledge in front-end development. I have 5 years of professional experience in developing mid to large-scale websites and web applications based on web standard technologies. Also, I have worked with all three front-end tools such as React.js, Vue.js, and Angular. As well as, I enjoy painting with CSS and learning Python in my spare time.
+A web developer with deep knowledge in front-end development. 7 years of professional experience in developing mid to large-scale websites and web applications based on web standard technologies and front-end tools such as React.js, Angular, and Vue.js (+3 years for each one).
 
 * 🌍  I'm based in Tehran, Iran
 * 🧠  I'm learning Flutter, AI, & Python
