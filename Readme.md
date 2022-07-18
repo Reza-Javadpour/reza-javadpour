@@ -53,4 +53,4 @@ A web developer with deep knowledge in front-end development. 7 years of profess
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reza-Javadpour&show_icons=true&theme=chartreuse-dark&count_private=true&hide=prs,contribs&hide_border=true)
 
-<a href="http://www.github.com/Reza-Javadpour"><img src="https://activity-graph.herokuapp.com/graph?username=Reza-Javadpour&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[//]: # (<a href="http://www.github.com/Reza-Javadpour"><img src="https://activity-graph.herokuapp.com/graph?username=Reza-Javadpour&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>)
