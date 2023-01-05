@@ -6,7 +6,6 @@ Software Web Developer
 
 A web developer with deep knowledge in front-end development. 7 years of professional experience in developing mid to large-scale websites and web applications based on web standard technologies and front-end tools such as React.js, Angular, and Vue.js (+3 years for each one).
 
-* 🌍  I'm based in Tehran, Iran
 * 🧠  I'm learning Flutter, AI, & Python
 * ⚡  I love photographing and traveling
 * ✉️  [reza.javadpour.eng@gmail.com](mailto:reza.javadpour.eng@gmail.com)
